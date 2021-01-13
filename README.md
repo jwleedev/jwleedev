@@ -19,8 +19,8 @@
 
 ## 3. 관심사
 * 게임 : DosGame, PC9801, Sega Master System, PS4, PS vita, Steam, RetroGame<br>
-         Square Enix, KOEI, Atlus, 바닐라웨어, Rockstar Games, ID soft, SNK<br>
-         삼국지, 노부나가의 야망, 대항해시대, 파이널 판타지, 드래곤 퀘스트, 페르소나 시리즈<br>
+            Square Enix, KOEI, Atlus, 바닐라웨어, Rockstar Games, ID soft, SNK<br>
+            삼국지, 노부나가의 야망, 대항해시대, 파이널 판타지, 드래곤 퀘스트, 페르소나 시리즈<br>
  <br>
  
 
