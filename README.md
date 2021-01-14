@@ -30,8 +30,8 @@
 
 <br>
 <br>
-
+ 
 
 [![leejiwoodev github stats](https://github-readme-stats.vercel.app/api?username=leejiwoodev)](https://github.com/anuraghazra/github-readme-stats)
 
-![대문](https://github.com/alexkiddev/alexkiddev/blob/master/mainpic.jpg)
+![대문](https://github.com/leejiwoodev/leejiwoodev/blob/master/mainpic.jpg)
