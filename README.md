@@ -18,12 +18,12 @@
 ## 3. 관심사
 * 프로그래밍 언어 : C++
 * 게임 : DosGame, PC9801, Sega Master System, PS4, PS vita, Steam, RetroGame<br>
- <br>
- 
+         (주로 DOS게임 - 삼국지, 대항해시대)<br>
+<br>
 
 ## 4. 온라인  
 * **개인블로그:** <https://jwking.tistory.com/>
-* **트위터:** <https://https://twitter.com/gomdoly_dev>
+* **트위터:** <https://twitter.com/gomdoly_dev>
 <br>
 <br>
  
