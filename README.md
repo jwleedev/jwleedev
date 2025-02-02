@@ -3,7 +3,7 @@
 
 ## 1. HelloWorld~!
 
-안녕하세요. Leetaekyung입니다.<br>
+안녕하세요. leetaekyung입니다.<br>
 <br>
 개인 독학, 개발, 취미 아지트 용도로<br>
 시작하게 되었습니다.<br>
